@@ -25,3 +25,5 @@ Inspired by https://github.com/fielding/copilot-instructions
 ```
 3. Copy the content which is relevant for you to use from the language folder to the defult profile file(s)
  - cat ./instructions/language/terraform/type/codegeneration/rules.md >> ./profiles/default/copilot-codegeneration.md
+
+TODO - file needs to be placed in the same workspace as current editor, figure out how to deal with this in a scaleable fashion
